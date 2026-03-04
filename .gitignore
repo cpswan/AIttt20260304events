@@ -1,0 +1,21 @@
+# Dart-related files
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.last_build_id
+.metadata
+build/
+
+# IDE-related files
+.idea/
+.vscode/
+
+# Project-specific generated files (if any)
+# For example, if your server creates log files or temporary data:
+# logs/
+# tmp/
+
+# Operating System files
+.DS_Store
+Thumbs.db
